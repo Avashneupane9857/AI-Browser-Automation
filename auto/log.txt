@@ -1,0 +1,37 @@
+[2025-04-08 21:04:29] 🚀 Starting task: hello hello
+[2025-04-08 21:04:29] 📍 Step 1
+[2025-04-08 21:04:32] Failed to initialize Playwright browser: [Errno 2] No such file or directory: 'C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe'
+[2025-04-08 21:04:32] Page load failed, continuing...
+[2025-04-08 21:04:33] Failed to initialize Playwright browser: [Errno 2] No such file or directory: 'C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe'
+[2025-04-08 21:04:33] 📍 Step 1
+[2025-04-08 21:04:33] Failed to initialize Playwright browser: [Errno 2] No such file or directory: 'C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe'
+[2025-04-08 21:04:33] Page load failed, continuing...
+[2025-04-08 21:04:33] Failed to initialize Playwright browser: [Errno 2] No such file or directory: 'C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe'
+[2025-04-08 21:04:33] 📍 Step 1
+[2025-04-08 21:04:34] Failed to initialize Playwright browser: [Errno 2] No such file or directory: 'C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe'
+[2025-04-08 21:04:34] Page load failed, continuing...
+[2025-04-08 21:04:34] Failed to initialize Playwright browser: [Errno 2] No such file or directory: 'C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe'
+[2025-04-08 21:04:34] 📍 Step 1
+[2025-04-08 21:04:34] Failed to initialize Playwright browser: [Errno 2] No such file or directory: 'C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe'
+[2025-04-08 21:04:34] Page load failed, continuing...
+[2025-04-08 21:04:35] Failed to initialize Playwright browser: [Errno 2] No such file or directory: 'C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe'
+[2025-04-08 21:04:35] 📍 Step 1
+[2025-04-08 21:04:35] Failed to initialize Playwright browser: [Errno 2] No such file or directory: 'C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe'
+[2025-04-08 21:04:35] Page load failed, continuing...
+[2025-04-08 21:04:36] Failed to initialize Playwright browser: [Errno 2] No such file or directory: 'C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe'
+[2025-04-08 21:04:36] 📍 Step 1
+[2025-04-08 21:04:36] Failed to initialize Playwright browser: [Errno 2] No such file or directory: 'C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe'
+[2025-04-08 21:04:36] Page load failed, continuing...
+[2025-04-08 21:04:36] Failed to initialize Playwright browser: [Errno 2] No such file or directory: 'C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe'
+[2025-04-08 21:04:36] 📍 Step 1
+[2025-04-08 21:04:37] Failed to initialize Playwright browser: [Errno 2] No such file or directory: 'C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe'
+[2025-04-08 21:04:37] Page load failed, continuing...
+[2025-04-08 21:04:37] Failed to initialize Playwright browser: [Errno 2] No such file or directory: 'C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe'
+[2025-04-08 21:04:37] 📍 Step 1
+[2025-04-08 21:04:38] Failed to initialize Playwright browser: [Errno 2] No such file or directory: 'C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe'
+[2025-04-08 21:04:38] Page load failed, continuing...
+[2025-04-08 21:04:38] Failed to initialize Playwright browser: [Errno 2] No such file or directory: 'C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe'
+[2025-04-08 21:04:38] 📍 Step 1
+[2025-04-08 21:04:39] Failed to initialize Playwright browser: [Errno 2] No such file or directory: 'C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe'
+[2025-04-08 21:04:39] Page load failed, continuing...
+[2025-04-08 21:04:39] Failed to initialize Playwright browser: [Errno 2] No such file or directory: 'C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe'
