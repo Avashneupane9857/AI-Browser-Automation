@@ -3,7 +3,7 @@ from browser_use import Agent
 import asyncio
 from dotenv import load_dotenv
 import speech_recognition as sr
-import pyttsx3
+import pyttsx3  
 import tkinter as tk
 from tkinter import ttk, scrolledtext
 import threading
@@ -23,13 +23,19 @@ from browser_use.browser.context import BrowserContext
 import sys
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))    
 
-browser = Browser(
-	config=BrowserConfig(
-		# NOTE: you need to close your chrome browser - so that this can open your browser in debug mode
-		chrome_instance_path='C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe',
-	)
-)
+# browser = Browser(
+# 	config=BrowserConfig(
+# 		# NOTE: you need to close your chrome browser - so that this can open your browser in debug mode
+# 		chrome_instance_path='C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe',
+# 	)
+# )
 
+browser = Browser(
+    config=BrowserConfig(
+        # NOTE: you need to close your chrome browser - so that this can open your browser in debug mode
+        chrome_instance_path='/Applications/Google Chrome.app/Contents/MacOS/Google Chrome',
+    )
+)
 class GUILogHandler(logging.Handler):
         """Custom handler to route logs to the GUI"""
         def __init__(self, gui):
@@ -448,10 +454,12 @@ class VoiceAssistantGUI:
         self.engine.runAndWait()
         self.update_status("Ready")
 
-def main():
+async def main():
     root = tk.Tk()
     app = VoiceAssistantGUI(root)
     root.mainloop()
 
 if __name__ == "__main__":
     asyncio.run(main())
+    
+    
